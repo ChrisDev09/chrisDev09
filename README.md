@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hi there :computer:
+<br>
+<br>
 I'm Christian Cardoso, I'm studying Front-End HTML programming | CSS | JavaScrip | REACT
 <br>
 <br>
